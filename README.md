@@ -1,1 +1,1 @@
-Neste repositório será usado para demonstrar o meu progresso em programação. Nele, postarei arquivos com códigos escritos por mim baseados em cursos e tutoriais de programação. Meu objetivo é desenvolver habilidades como desenvolvedor de Software afim da busca de empregos dessa área.
+Neste repositório será usado para demonstrar o meu progresso em programação. Nele, postarei arquivos com códigos escritos por mim baseados em cursos e tutoriais de programação. Meu objetivo é desenvolver habilidades como desenvolvedor de Software afim da busca de empregos nessa área.
